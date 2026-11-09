@@ -1,5 +1,5 @@
 # powershell_test
-1. First ordered list item
+1. First ordered list item Ver.2
 2. Another item
 ⋅⋅* Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
@@ -33,10 +33,10 @@
     + Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
 
-- [x] Finish my changes
-- [x] Push my commits to GitHub
-- [x] Open a pull request
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
+- [ ] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] list syntax required (any unordered or ordered list supported)
+- [ ] this is a complete item
 - [ ] this is an incomplete item
