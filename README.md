@@ -35,7 +35,7 @@
 
 - [X] Finish my changes
 - [x] Push my commits to GitHub
-- [x] Open a pull request
+- [ ] Open a pull request
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
