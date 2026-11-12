@@ -33,8 +33,8 @@
     + Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
 
-- [X] Finish my changes
-- [x] Push my commits to GitHub
+- [ ] Finish my changes
+- [ ] Push my commits to GitHub
 - [ ] Open a pull request
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
